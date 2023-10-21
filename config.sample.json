@@ -1,0 +1,26 @@
+{
+  "address": ":10080",
+  "domain": "aime.io",
+  "key": {
+    "access_secret": "",
+    "refresh_secret": ""
+  },
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "user": "postgres",
+    "password": "postgres",
+    "dbname": "postgres",
+    "sslmode": "disable",
+    "timezone": "Asia/Shanghai"
+  },
+  "redis": {
+    "host": "localhost",
+    "port": 6379,
+    "password": ""
+  },
+  "telegram": {
+    "BOT_NAME": "",
+    "BOT_TOKEN": ""
+  }
+}
